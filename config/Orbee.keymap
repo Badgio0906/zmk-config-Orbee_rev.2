@@ -67,7 +67,7 @@
             bindings = <
 &kp Q       &kp L          &kp U         &kp LC(R)       &kp LC(T)                                &none            &kp W  &lt 5 I  &kp Y  &kp P
 &kp A       &kp I          &kp A         &kp O           &kp MINUS   &kp EQUAL       &none        &kp K            &kp T  &kp N    &kp S  &none
-&kp Z       &kp X          &kp C         &kp E           &kp V       &kp LEFT_GUI    &none        &kp G            &kp D  &kp M    &kp J  &kp SLASH
+&kp Z       &kp X          &kp C         &kp E           &kp V       &kp LEFT_GUI    &none        &kp G            &kp D  &kp M    &kp J  &none
 &kp ESCAPE  &mt LCTRL TAB  &kp LEFT_ALT  &kp LEFT_SHIFT  &kp DELETE  &lt 1 SPACE     &lt 2 ENTER  &kp RIGHT_SHIFT                         &kp DEL
             >;
 
