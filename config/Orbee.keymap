@@ -19,6 +19,26 @@
             bindings = <&kp LA(TAB)>;
             key-positions = <12 13>;
         };
+
+        Ctrl+Z {
+            bindings = <&kp LC(Z)>;
+            key-positions = <14 15>;
+        };
+
+        Ctrl+X {
+            bindings = <&kp LC(X)>;
+            key-positions = <1 2>;
+        };
+
+        Ctrl+C {
+            bindings = <&kp LC(C)>;
+            key-positions = <2 3>;
+        };
+
+        Ctrl+V {
+            bindings = <&kp LC(V)>;
+            key-positions = <3 4>;
+        };
     };
 
     macros {
